@@ -1,1 +1,5 @@
 # EDA-on-House-sales
+
+In this dataset, I have access to information about house sale prices within King County, which encompasses Seattle. The dataset spans the time frame from May 2014 to May 2015.  The Real Estate Investment Trust is considering expanding into residential real estate investments. My tasks revolve around assessing and predicting housing prices, utilizing various property attributes or features such as square footage, bedroom count, number of floors, and more.
+
+Throughout this EDA, my aim is to thoroughly analyze and forecast housing prices by taking into account these different features. By understanding the relationships between these attributes and the actual house prices, I hope to develop a predictive model capable of accurately estimating the market value of a house based on its unique characteristics. This predictive tool could significantly assist in the Real Estate Investment Trust's decision-making process when it comes to making informed investments in the realm of residential properties.
